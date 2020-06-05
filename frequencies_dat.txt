@@ -1,0 +1,6 @@
+The Minimum and Maximum  value of k(dft frequencies) are:
+Min value =  -0.5 
+Max Value =  0.4990234375
+The Minimum and Maximum 'absolute' value of k(dft frequencies) are:
+Min value =  0.0 
+Max Value =  0.5

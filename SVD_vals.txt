@@ -1,0 +1,12 @@
+First Matrix : 
+ [[2. 1.]
+ [1. 0.]
+ [0. 1.]] 
+The Singular Values are : 
+ [2.44948974 1.0]
+Second Matrix : 
+ [[1. 1. 0.]
+ [1. 0. 1.]
+ [0. 1. 1.]] 
+The Singular Values are : 
+ [2.0 1.0 1.0]
